@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "@devperez/components": "0.2.3",
+    "minireset.css": "0.0.7",
     "next": "11.0.1",
     "next-transpile-modules": "8.0.0",
     "react": "^17.0.2",
